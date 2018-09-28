@@ -3,5 +3,6 @@ Buatlah sebuah aplikasi yang mampu menyimpan data user. Data user terdiri dari n
 Delete Hobi
 Upload Foto
 Ketentuan Jurnal :
+
 * Menggunakan Array
-*CheckBox
+* CheckBox
